@@ -18,7 +18,7 @@ To set up the theme. Ensure that you have [oh-my-zsh](https://github.com/robbyru
 
 Clone the repo or download `sheng.zsh-theme` file.
 
-    $ git clone git@github.com:andela-hmasila/sheng-zsh.git
+    $ git clone https://github.com/andela-hmasila/sheng-zsh.git
 
 
 Copy `sheng.zsh-theme` to `~/.oh-my-zsh/custom/themes/`. This is where your custom themes live.
