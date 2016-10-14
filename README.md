@@ -70,5 +70,5 @@ Feel free to contribute, even if it's to add an emoji. :wink: Just fork it :fork
 
 ### Credits
 
-This projects borrows from [Austin Kabiru's](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) theme.
+This projects borrows from [Austin Kabiru's](https://github.com/akabiru/rafiki-zsh) theme.
 Not forgetting [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) itself. :smile:
